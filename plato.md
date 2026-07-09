@@ -1,5 +1,22 @@
 # Plato: A Context Guide
 
+## Contents
+
+- [Life and Historical Background](#life-and-historical-background)
+  - [Who was Plato?](#who-was-plato)
+  - [Athens in Plato's lifetime](#athens-in-platos-lifetime)
+  - [The Execution of Socrates](#the-execution-of-socrates)
+- [Plato's Intellectual Circle](#platos-intellectual-circle)
+  - [Socrates](#socrates)
+  - [Aristotle](#aristotle)
+  - [The Academy](#the-academy)
+  - [Other](#other)
+- [The Republic](#the-republic)
+- [Facts I Heard](#facts-i-heard)
+- [Timeline](#timeline)
+- [Further Reading](#further-reading)
+- [Notes](#notes)
+
 ## Life and Historical Background
 
 ### Who was Plato?

@@ -4,7 +4,7 @@
 
 - [Life & Historical Background](#life--historical-background) (WIP)
   - [Who was Plato?](#who-was-plato)
-  - [Athens in Plato's lifetime](#athens-in-platos-lifetime)
+  - [Athens in Plato's Lifetime](#athens-in-platos-lifetime)
   - [The Execution of Socrates](#the-execution-of-socrates) (WIP)
 - [Plato's Intellectual Circle](#platos-intellectual-circle) (WIP)
   - [Socrates](#socrates) (WIP)
@@ -12,7 +12,7 @@
   - [The Academy](#the-academy) (WIP)
   - [Other](#other) (WIP)
 - [The Republic](#the-republic) (WIP)
-  - [Why read The Republic today?](#why-read-the-republic-today) (WIP)
+  - [Why Read The Republic Today?](#why-read-the-republic-today) (WIP)
   - [Overview of The Republic](#overview-of-the-republic) (WIP)
   - [Structure & Major Themes](#structure--major-themes) (WIP)
   - [Key Images, Symbols, and Allegories](#key-images-symbols-and-allegories) (WIP)
@@ -37,7 +37,7 @@ By any reckoning, Plato is one of the most dazzling literary artists in the West
 
 After Socrates' death, Plato may have traveled to places such as Cyrene, Italy, Sicily, and Egypt, though the details are uncertain. What is clear is that he eventually returned to Athens and founded the Academy, one of the most influential schools in the ancient world. Apart from a few later journeys, especially to Sicily, he seems to have spent much of the rest of his life teaching and writing there. Later reports claim that Plato was buried at the Academy, but those traditions are difficult to verify. Even so, the image fits his legacy: Plato lived as a philosopher whose school, writings, and students carried his questions far beyond Athens.[^1]
 
-### Athens in Plato's lifetime
+### Athens in Plato's Lifetime
 
 The Peloponnesian War. This notorious war began in 431 B.C. under pressure from Athenian power and Spartan fear, though historians disagree over how deterministic that explanation should be. Pericles’ strategy relied on maritime superiority and avoidance of hoplite battle, which forced the rural population inside the walls while Spartan invasions devastated the countryside. That crowding intensified the plague, and Thucydides links the disaster to mortality, disorder in sacred spaces, disrupted burial practices, and a weakening of fear of both law and gods. The war also made imperial democracy harsher and more unstable: the Mytilenean debate showed the Assembly voting for extreme punishment and then reversing itself, while the Sicilian Expedition showed how prestige, fear, and economic expectation could silence opposition and distort deliberation.[^3]
 
@@ -86,7 +86,7 @@ The Academy got its name from its location, *Akadēmeia*, a grove of trees sacre
 
 ## The Republic
 
-### Why read The Republic today?
+### Why Read The Republic Today?
 
 - Why this text matters
 - Why it still gets discussed
@@ -158,14 +158,14 @@ The Academy got its name from its location, *Akadēmeia*, a grove of trees sacre
 - Regime types as psychological types
 - Plato’s critique of democracy
 
-#### Knowledge vs Opinion
+#### Knowledge vs. Opinion
 
 - The divided line
 - The cave
 - The Forms
 - The Form of the Good
 
-#### Appearance vs Reality
+#### Appearance vs. Reality
 
 - Shadows, images, imitation
 - False wisdom

@@ -14,11 +14,15 @@ After Socrates' death, Plato may have traveled to places such as Cyrene, Italy, 
 
 ### Athens in Plato's lifetime
 
-- The Peloponnesian War
-- The decline of Athenian democracy
-- Political instability after the war
-- The Thirty Tyrants
-- The restoration of democracy
+The Peloponnesian War. This notorious war began in 431 B.C. under pressure from Athenian power and Spartan fear, though historians disagree over how deterministic that explanation should be. Pericles’ strategy relied on maritime superiority and avoidance of hoplite battle, which forced the rural population inside the walls while Spartan invasions devastated the countryside. That crowding intensified the plague, and Thucydides links the disaster to mortality, disorder in sacred spaces, disrupted burial practices, and a weakening of fear of both law and gods. The war also made imperial democracy harsher and more unstable: the Mytilenean debate showed the Assembly voting for extreme punishment and then reversing itself, while the Sicilian Expedition showed how prestige, fear, and economic expectation could silence opposition and distort deliberation.[^3]
+
+The decline of Athenian democracy. Athenian democracy declined unevenly rather than in a straight line. Wartime pressure exposed the interaction between participatory institutions and empire, emergency finance, military service, and high-stakes choices made under uncertainty.[^4] After the Sicilian disaster, the coup of the Four Hundred and the transition to the Five Thousand showed that constitutional argument had become a fight over who counted as “the city”: the whole citizen body, a hoplite subset, wider military contributors, or propertied elites.[^3] The Arginusae trial deepened the charge that popular anger could override legal form, since Xenophon reports that several victorious generals were condemned in a single vote despite objections that each accused should be tried separately according to law.[^5]
+
+Post-war political instability. After Aegospotami, Athens faced blockade, famine, and the loss of ships, allies, and provisions. The peace terms dismantled the Long Walls and Piraeus fortifications, surrendered all but twelve ships, recalled exiles, and subordinated Athenian foreign policy to Sparta.[^5] Defeat did not produce a stable constitution; it opened a struggle among returned exiles, democratic holdouts, Spartan patrons, and Athenian oligarchs. Aristotle says the Assembly was effectively coerced into establishing the oligarchy, and both Aristotle and Xenophon describe the Thirty as formally chosen to frame a constitution while they delayed that task, installed a compliant Council and magistrates, and preserved an institutional shell for coercive rule.[^6] Instability also divided the oligarchs themselves, since the conflict between Critias and Theramenes concerned how narrow, violent, and durable the oligarchy could be, not whether democracy should return.[^5]
+
+The Thirty Tyrants. The Thirty Tyrants built power through selective inclusion, disarmament, confiscation, and Spartan support. They enrolled the Three Thousand as those who would share in government, disarmed everyone else, and eliminated Theramenes after he challenged Critias in the Senate.[^5] Xenophon and Aristotle describe a regime that moved from early prosecutions of informers into broader terror, while Xenophon says the Thirty killed for property as well as political enmity; Lysias gives this policy its social face through the arrest and death of Polemarchus and the attack on the household and property of Cephalus’ family.[^7] Because exiles, disarmed citizens, threatened metics, and others all had reasons to resist, opposition to the Thirty was broader than a simple democratic party.[^8]
+
+The restoration of democracy. Democracy returned through armed resistance and negotiated settlement. Thrasybulus’ movement grew from Phyle to Piraeus and defeated the regime at Munychia, where Critias was killed; the city party then replaced the Thirty with a board of Ten, but conflict persisted until Spartan policy divided and King Pausanias backed reconciliation.[^5][^6] Aristotle’s settlement under Eucleides allowed those who wished to live at Eleusis, regulated movement between Athens and Eleusis, preserved homicide cases under ancestral law, and granted broad amnesty except for chief oligarchic officeholders unless they passed scrutiny.[^6] Andocides shows the legal reconstruction that followed: magistrates could not enforce uninscribed laws, decrees of Council or Assembly could not override laws, laws against individuals were restricted, and only laws since Eucleides applied in public matters.[^9] The restoration stabilized political life without erasing civil war. The report stresses that Athens recovered through military victory, Spartan mediation, constitutional pragmatism, amnesty, and legal reconstruction, and that the settlement prevented renewed civil war while giving fourth-century democracy a more durable constitutional frame.[^5][^6] Yet the restored order was also a refounding rather than a simple return: legal culture became more formalized, political life remained shadowed by defeat, and the city’s social base had been changed by demography, poverty, war damage, and civil violence.[^10]
 
 ### The Execution of Socrates
 
@@ -212,7 +216,21 @@ The Academy got its name from its location, *Akadēmeia*, a grove of trees sacre
 
 ### Controversial Passages & Interpretations
 
-- why ban the poets, anti-democracy, etc
+- why ban the poets
+- is the philosopher-king realistic?
+- is Plato anti-democratic?
+- does Plato endorse totalitarian politics?
+- what is the status of the ideal city? (serious proposal, thought experiment, etc)
+
+### Common Pitfalls for the First-Time Reader
+
+- Treating Socrates as always identical with Plato
+- Reading the ideal city too literally
+- Forgetting the dramatic context
+- Assuming ancient democracy equals modern liberal democracy
+- Separating the political argument from the psychological argument
+- Skipping over the role of education
+- Treating the cave as a standalone parable
 
 ## Facts I Heard
 
@@ -225,11 +243,28 @@ The Academy got its name from its location, *Akadēmeia*, a grove of trees sacre
 - TODO: insert mermaid timeline diagram
     - docs [here](https://mermaid.ai/open-source/syntax/timeline.html)
 
+- Birth of Socrates
+- Birth of Plato
+- Peloponnesian War
+- Rule of the Thirty Tyrants
+- Trial and execution of Socrates
+- Founding of the Academy
+- Composition period of *The Republic*
+- Death of Plato
+
 ## Further Reading
 
 - Useful secondary resources
 
-## Sources
+## Notes
 
-[^1]: Thomas Brickhouse and Nicholas D. Smith, “Plato,” Internet Encyclopedia of Philosophy, accessed July 9, 2026, https://iep.utm.edu/plato/.
-[^2]: Kraut, Richard. "Plato." The Stanford Encyclopedia of Philosophy. First published March 20, 2004. Substantive revision April 24, 2026. Edited by Edward N. Zalta and Uri Nodelman. Stanford, CA: Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/plato/.
+[^1]: Thomas Brickhouse and Nicholas D. Smith, “Plato,” *Internet Encyclopedia of Philosophy*, accessed July 9, 2026, https://iep.utm.edu/plato/.
+[^2]: Richard Kraut, “Plato,” The Stanford Encyclopedia of Philosophy, first published March 20, 2004, substantive revision April 24, 2026, ed. Edward N. Zalta and Uri Nodelman (Stanford, CA: Metaphysics Research Lab, Stanford University), https://plato.stanford.edu/entries/plato/.
+[^3]: Thucydides, *History of the Peloponnesian War*, ToposText, accessed July 9, 2026, https://topostext.org/work/52.
+[^4]: Wilfried Nippel, “The History and Structure of Athenian Democracy,” in Ancient and Modern Democracy: Two Concepts of Liberty?, trans. Keith Tribe (Cambridge: Cambridge University Press, 2016), 9–78, https://doi.org/10.1017/CBO9781139107297.002.
+[^5]: Xenophon, Hellenika, ToposText, accessed July 9, 2026, https://topostext.org/work/96.
+[^6]: Aristotle, The Athenian Constitution, trans. Sir Frederic G. Kenyon, Project Gutenberg, accessed July 9, 2026, https://www.gutenberg.org/ebooks/26095.
+[^7]: Lysias, Against Eratosthenes, ToposText, accessed July 9, 2026, https://topostext.org/work/468.
+[^8]: Vincent Azoulay and Paulin Ismard, Athens, 403 BC: A Democracy in Crisis?, trans. Lorna Coing (Cambridge: Cambridge University Press, 2025), https://doi.org/10.1017/9781009490979.
+[^9]: Aristotle, Constitution of the Athenians, ToposText, accessed July 9, 2026, https://topostext.org/work/55.
+[^10]: Alan Sheppard, “Aristophanes’ Ecclesiazvsae and the Remaking of the Patrios Politeia,” The Classical Quarterly 66, no. 2 (2016): 463–83, https://doi.org/10.1017/S0009838816000653.

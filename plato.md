@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Life and Historical Background](#life-and-historical-background) (WIP)
+- [Life & Historical Background](#life--historical-background) (WIP)
   - [Who was Plato?](#who-was-plato)
   - [Athens in Plato's lifetime](#athens-in-platos-lifetime)
   - [The Execution of Socrates](#the-execution-of-socrates) (WIP)
@@ -25,7 +25,7 @@
 - [Further Reading](#further-reading) (WIP)
 - [Notes](#notes)
 
-## Life and Historical Background
+## Life & Historical Background
 
 ### Who was Plato?
 

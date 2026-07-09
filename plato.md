@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Life and Historical Background](#life-and-historical-background)
+- [Life and Historical Background](#life-and-historical-background) (WIP)
   - [Who was Plato?](#who-was-plato)
   - [Athens in Plato's lifetime](#athens-in-platos-lifetime)
   - [The Execution of Socrates](#the-execution-of-socrates) (WIP)
@@ -12,6 +12,14 @@
   - [The Academy](#the-academy) (WIP)
   - [Other](#other) (WIP)
 - [The Republic](#the-republic) (WIP)
+  - [Why read The Republic today?](#why-read-the-republic-today) (WIP)
+  - [Overview of The Republic](#overview-of-the-republic) (WIP)
+  - [Structure & Major Themes](#structure--major-themes) (WIP)
+  - [Key Images, Symbols, and Allegories](#key-images-symbols-and-allegories) (WIP)
+  - [Literary Lens](#literary-lens) (WIP)
+  - [Philosophical Background](#philosophical-background) (WIP)
+  - [Controversial Passages & Interpretations](#controversial-passages--interpretations) (WIP)
+  - [Common Pitfalls for the First-Time Reader](#common-pitfalls-for-the-first-time-reader) (WIP)
 - [Facts I Heard](#facts-i-heard) (WIP)
 - [Timeline](#timeline) (WIP)
 - [Further Reading](#further-reading) (WIP)
@@ -209,7 +217,13 @@ The Academy got its name from its location, *Akadēmeia*, a grove of trees sacre
 
 ### Literary Lens
 
-- Literary things a reader might miss ("I went down" being a loaded philosophical phrase, etc). Maybe this could be combined above.
+- Literary things a reader might miss ("I went down" being a loaded philosophical phrase, etc).
+
+#### Irony
+
+- Socratic irony
+- Dramatic irony
+- When Socrates may not be speaking straightforwardly
 
 #### Framing and Descent
 
@@ -223,6 +237,17 @@ The Academy got its name from its location, *Akadēmeia*, a grove of trees sacre
 - Polemarchus as inherited morality
 - Thrasymachus as cynical realism
 - Glaucon and Adeimantus as serious philosophical challengers
+
+#### Repetition and Doubling
+
+- City and soul
+- Political regimes and human characters
+- Education and conversion
+
+#### Myth and Argument
+
+- Why Plato mixes rational argument with mythic storytelling
+- How myths function philosophically
 
 ### Philosophical Background
 

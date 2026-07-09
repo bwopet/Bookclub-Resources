@@ -4,9 +4,13 @@
 
 ### Who was Plato?
 
-- Approximate dates
-- Aristocratic Athenian background
-- Role as philosopher, writer, teacher
+Plato was an Athenian philosopher, writer, and teacher whose dialogues helped shape the foundations of Western philosophy. He was born around 428 or 427 B.C. and died around 348 or 347 B.C. Although later tradition says his given name was Arsitocles, with "Plato" being a later nickname (for *platos*, or "broad"), the details of his early life remain uncertain. What is more secure is that he came from a wealthy and politically connected Athenian family. His background placed him close to conflicts that shaped Athens after the Peloponnesian War, including both democratic politics and oligarchic reaction.[^1]
+
+Plato's family connections were politically complicated. His uncle Charmides was associated with the Thirty Tyrants, the oligarchic faction that briefly overthew Athenian democracy in 404 B.C. By contrast, his stepfather Pyrilampes was reportedly connected with Pericles and the democratic faction. These ties did not make Plato a simple partisan of either side, but they did place him in the mdidle of Athens' political instability. That instability, especially the trial and execution of Socrates in 399 B.C., deeply shaped Plato's suspicion of ordinary politics and public opinion.[^1]
+
+By any reckoning, Plato is one of the most dazzling literary artists in the Western tradition, because he turned philosophical argument into staged conversation. Nearly everything he wrote takes the form of a dialogue. In his dialogues, Socrates questions generals, poets, politicians, sophists, and ambitious young men; each exchange forces the reader to examine their own assumptions. As a teacher, he founded the Academy and treated philosophy as a disciplined way of life that trained students to move from persuasive opinion toward clearer understanding. As a writer, philosopher, and educator, Plato created a form of inquiry that still teaches by unsettling readers before it instructs them.[^2]
+
+After Socrates' death, Plato may have traveled to places such as Cyrene, Italy, Sicily, and Egypt, though the details are uncertain. What is clear is that he eventually returned to Athens and founded the Academy, one of the most influential schools in the ancient world. Apart from a few later journeys, especially to Sicily, he seems to have spent much of the rest of his life teaching and writing there. Later reports claim that Plato was buried at the Academy, but those traditions are difficult to verify. Even so, the image fits his legacy: Plato lived as a philosopher whose school, writings, and students carried his questions far beyond Athens.[^1]
 
 ### Athens in Plato's lifetime
 
@@ -41,6 +45,8 @@
 - What Plato’s school was
 - Why it mattered
 - Its role in ancient intellectual life
+
+The Academy got its name from its location, *Akadēmeia*, a grove of trees sacred to the hero Academus, a mile or so outside the Athenian walls.[^1]
 
 ### Other
 
@@ -222,3 +228,8 @@
 ## Further Reading
 
 - Useful secondary resources
+
+## Sources
+
+[^1]: Thomas Brickhouse and Nicholas D. Smith, “Plato,” Internet Encyclopedia of Philosophy, accessed July 9, 2026, https://iep.utm.edu/plato/.
+[^2]: Kraut, Richard. "Plato." The Stanford Encyclopedia of Philosophy. First published March 20, 2004. Substantive revision April 24, 2026. Edited by Edward N. Zalta and Uri Nodelman. Stanford, CA: Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/plato/.

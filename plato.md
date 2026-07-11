@@ -2,10 +2,10 @@
 
 ## Contents
 
-- [Life & Historical Background](#life--historical-background) (WIP)
+- [Life & Historical Background](#life--historical-background)
   - [Who was Plato?](#who-was-plato)
   - [Athens in Plato's Lifetime](#athens-in-platos-lifetime)
-  - [The Execution of Socrates](#the-execution-of-socrates) (WIP)
+  - [The Execution of Socrates](#the-execution-of-socrates)
 - [Plato's Intellectual Circle](#platos-intellectual-circle) (WIP)
   - [Socrates](#socrates) (WIP)
   - [Aristotle](#aristotle) (WIP)
@@ -51,9 +51,11 @@ The restoration of democracy. Democracy returned through armed resistance and ne
 
 ### The Execution of Socrates
 
-- Socrates’ trial and death
-- Why this mattered for Plato
-- How it shaped Plato’s distrust of popular opinion and democratic politics
+Socrates' trial and death. In 399 B.C., Athens prosecuted Socrates for corrupting the youth, rejecting the city's recognized gods, and introducing new divinities.[^11] Meletus fomrally led the prosecution, while Anytus and Lycon represented broader groups offended by Socrates' questioning of politicians, craftsmen, poets, and rhetoricians.[^12] A popular jury, generally reconstructed as 501 citizens, convicted Socrates and then chose his punishment in a separate vote.[^13] Socrates initially proposed the provocative counter-penalty of public maintenance in the Prytaneum, later accepted a fine supported by his friends, and ultimately received a death sentence.[^14] After the sacred mission to Delos delayed the execution, Socrates drank a state-administered poison traditionally identified as hemlock and died surrounded by his closed friends and students in his prison cell.[^15]
+
+Why this mattered for Plato. Socrates' execution affected Plato personally, philosophically, and politically because Athens killed the man whom Plato portrayed as exceptionally just and wise.[^11] In the Euthyphro, Apology, Crito, and Phaedo, Plato transformed the events from Socrates' indictment through his execution into a sustained examination of piety, truth, civic duty, and the soul.[^16] These dialogues present Socrates as a divine "gadfly," a principaled citizen who refuses to answer injustice with injustice, and a philosopher who turns his own death into a final lesson. The execution also appears to have redirected Plato away from ordinary civic politics and toward the conviction that political authority must unite with genuine philosophical knowledge.[^11] Plato's later establishment of the Academy can consequently be understood as a long-term response to Athens' failure, creating an institution in which dialectical inquiry would replace prejudice, panic, and forensic manipulation.[^17]
+
+Distrust of popular opinion and democracy. Socrates' conviction taught Plato that popular opinion becomes politically dangerous when inherited prejudice and persuasive rhetoric displace knowledge. In the Apology, Socrates identifies longstanding public accusations as more dangerous than the formal indictment because those accusations had shaped the jurors' beliefs since childhood.[^11] The Crito develops this criticism by arguing that people should follow the judgment of someone who understands justice rather than the opinion of an uninformed majority, even though the majority possesses the power to kill or disgrace them.[^12] Plato later presents rhetoric in the Gorgias as flattery that wins public approval without knowledge, while the Republic criticizes democracy for granting political authority without adequately considering differences in wisdom and character.[^18] His later works moderate this position by allowing roles for law and limited democratic institutions, but Plato continues to insist that cities must discipline popular opinion through knowledge or, when genuine expertise is unavailable, through well-designed laws.[^16]
 
 ## Plato's Intellectual Circle
 
@@ -310,3 +312,11 @@ The Academy got its name from its location, *Akadēmeia*, a grove of trees sacre
 [^8]: Vincent Azoulay and Paulin Ismard, Athens, 403 BC: A Democracy in Crisis?, trans. Lorna Coing (Cambridge: Cambridge University Press, 2025), https://doi.org/10.1017/9781009490979.
 [^9]: Aristotle, Constitution of the Athenians, ToposText, accessed July 9, 2026, https://topostext.org/work/55.
 [^10]: Alan Sheppard, “Aristophanes’ Ecclesiazvsae and the Remaking of the Patrios Politeia,” The Classical Quarterly 66, no. 2 (2016): 463–83, https://doi.org/10.1017/S0009838816000653.
+[^11]: Plato, Apology, trans. Benjamin Jowett, The Internet Classics Archive, Massachusetts Institute of Technology, accessed July 11, 2026, https://classics.mit.edu/Plato/apology.html.
+[^12]: Plato, Crito, trans. Benjamin Jowett, The Internet Classics Archive, Massachusetts Institute of Technology, accessed July 11, 2026, https://classics.mit.edu/Plato/crito.html.
+[^13]: Debra Nails, “Socrates,” The Stanford Encyclopedia of Philosophy, first published September 16, 2005, substantive revision April 22, 2024, ed. Edward N. Zalta and Uri Nodelman (Stanford, CA: Metaphysics Research Lab, Stanford University), https://plato.stanford.edu/entries/socrates/.
+[^14]: Xenophon, The Apology of Socrates to the Jury, trans. O. J. Todd, Lexundria, accessed July 11, 2026, https://lexundria.com/xen_apol/1-14/td.
+[^15]: Tim Connolly, “Plato: Phaedo,” Internet Encyclopedia of Philosophy, accessed July 11, 2026, https://iep.utm.edu/phaedo/.
+[^16]: C. J. Rowe, “Killing Socrates: Plato’s Later Thoughts on Democracy,” The Journal of Hellenic Studies 121 (2001): 63–76, https://doi.org/10.2307/631828.
+[^17]: Lewis Trelawny-Cassity, “Plato: The Academy,” Internet Encyclopedia of Philosophy, accessed July 11, 2026, https://iep.utm.edu/plato-academy/.
+[^18]: Plato, Gorgias, trans. Benjamin Jowett, The Internet Classics Archive, Massachusetts Institute of Technology, accessed July 11, 2026, https://classics.mit.edu/Plato/gorgias.html.

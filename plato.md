@@ -283,18 +283,33 @@ The Academy got its name from its location, *Akadēmeia*, a grove of trees sacre
 
 ## Timeline
 
-- Maybe here we can find (or make with Typst lol) a nice graphic timeline from birth of socrates, plato, peloponnesian war, founding of the academy, writing of the republic, death of socrates, etc
-- TODO: insert mermaid timeline diagram
-    - docs [here](https://mermaid.ai/open-source/syntax/timeline.html)
-
-- Birth of Socrates
-- Birth of Plato
-- Peloponnesian War
-- Rule of the Thirty Tyrants
-- Trial and execution of Socrates
-- Founding of the Academy
-- Composition period of *The Republic*
-- Death of Plato
+```mermaid
+timeline
+  title Platonic Chronology and Writings
+    section Plato's Birth
+      428/7 BC: [Archonship of Diotimus] Plato is born in Athens, the son of Ariston (son of Aristokles, direct descendant of Solon's brother Exekestiades), his mother was Periktione (sister of Charmides and cousin of Kritias).: Plato had two brothers and a sister.: His mother married a second time, to Pyrilampes, a member of the Periclean group.
+    section Early Life
+      431-421 BC: Sea The Great Peloponnesian War (Part I).: Young Plato received a musical and gymnastic education, he wrote juvenile epigrams and tragedies, but burned them once he became associated with Socrates.
+      416-411 BC: Great Peloponnesian War (Part II).: He was active politically ( Letter 7 ).: His uncle and cousin were among the Thirty Tyrants ( Plato died and was buried in his garden in the Academy in Athens.404/403), who terrorized the Athenian state after Athens lost the war to Sparta in 404.
+      411 BC: Conservative coup d' état (The 400), followed later in the summer by a democratic restoration led by Alcibiades.
+      399 BC: Trial and execution of Socrates.: Plato was present at the trial, but not allowed to speak.: Plato and other disciples removed themselves to Megara, next door to Athens.: There was later a 'Megarean School' of Socratic philosophy. 
+      395-394 BC: Plato served in the military on two occasions (the Corinthian war?). 
+    section First Period Of Literary Activity
+      390-388 BC: Laches: Protagoras: Apology Charmides: Hippias Minor: Crito Euthyphro: Ion: Gorgias Lysis: Hippias Major 
+    section Late Life
+      390-388: First Journey to Sicily and Italy (early 390 to summer 388).: Probably Plato's first real attention to Pythagoreanism, which was undergoing a renaissance in South Italy under the leadership of Archytas of Tarentum.: First acquaintance with Dion of Syracuse (brother-in-law of Dionysius I) and with the young Dionysius II (who became tyrant in 367 on the death of his father).: Plato departed to Aegina, on orders of Dionysius I.
+    section Second Period Of Literary Activity
+      388-367: Foundation of the Academy: Meno: Symposium: Phaedrus: Cratylus: Phaedo: Parmenides: Euthydemus: Republic: Theatetus: Menexenus
+    section Late Life Continued
+      366-365: Second Journey to Sicily (exile and restoration of Dion).
+      365-361: The Sophistes: the Politicus
+      361-360: Third Journey to Sicily, on the invitation of Dion.: Plato is forced to live outside the palace at the camp of the mercenaries (as a hostage for Dion's good behavior?).: Dion decides on revolution, but Plato refused to participate.: With the intervention of Archytas of Tarentum, Plato is allowed to return to Athens (summer, 360).
+      357-354: Dion's government of Syracuse, aided and eventually terminated by pupils from the Academy (Kallipos the Academic).
+    section Last Period Of Literary Activity
+      360-347/348: Philebus: Kritias: Letter 7: Timaeus: The Laws
+    section Plato's Death
+      348: Plato died and was buried in his garden in the Academy in Athens.
+```
 
 ## Further Reading
 
